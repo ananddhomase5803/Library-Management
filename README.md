@@ -555,9 +555,6 @@ GROUP BY
 
 SELECT * FROM overdue_books_summary;
 
--- END OF THE PROJECT LIBRARY SYSTEM MANAGEMENT 
--- BY MAUZUM SHAMIL 
-
 ```
 
 ## Reports
@@ -570,23 +567,5 @@ SELECT * FROM overdue_books_summary;
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
 
-## How to Use
-
-1. **Clone the Repository**: Clone this repository to your local machine.
-   
-
-2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries in the `analysis_queries.sql` file to perform the analysis.
-4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
-
-## Author - Mauzum shamil
-
-This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
-
-**LINKEDIN**: http://linkedin.com/in/mauzum-shamil
-**PORTFOLIO**: https://linktr.ee/mauzum_shamil
-**GITHUB**: https://github.com/mauzumshamil
-**EMAIL**: mauzumanu@gmail.com
 
 
-Thank you for your interest in this project!
